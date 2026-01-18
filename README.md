@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Hadi Mostafa</h1>
+<h1 align="center">Hi, I'm Hadi Mostafa</h1>
 <h3 align="center">Computer Engineering Student | AI Researcher | Robotics & IoT Enthusiast</h3>
 
-- 🔭 I’m currently working on **AI Research in Healthcare, Digital Twins, and Human-Behavior Analysis**
-- 🤖 I build **AI + IoT + Robotics systems** (ESP8266, Raspberry Pi, Drones, CV, MQTT)
-- 👯 I’m looking to collaborate on **AI, Computer Vision, and Autonomous Systems Projects**
-- 🎮 Currently learning **Unity (FPS game development)** and improving my **Cybersecurity skills**
-- 📫 Reach me at **hadimos567@gmail.com**
+- I’m currently working on **AI Research in Healthcare, Digital Twins, and Human-Behavior Analysis**
+- I build **AI + IoT + Robotics systems** (ESP8266, Raspberry Pi, Drones, CV, MQTT)
+- I’m looking to collaborate on **AI, Computer Vision, and Autonomous Systems Projects**
+- Currently learning **Unity (FPS game development)** and improving my **Cybersecurity skills**
+- Reach me at **hadimos567@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -71,12 +71,12 @@
 
 </p>
 
-<h3 align="left">🚀 Highlighted Projects:</h3>
+<h3 align="left"> Highlighted Projects:</h3>
 
-- 🧠 <b>EngageSense AI</b> — Real-time student engagement detection (Eye-Gaze + Head-Pose + CNNs)
-- 🚗 <b>DriveSafe</b> — Driver distraction detection using YOLOv8, EAR, head-pose & phone detection
-- 🏥 <b>Healthcare Digital Twin (FL + HE)</b> — Privacy-preserving federated learning system
-- 🚙 <b>AI-Assisted RC Car</b> — Raspberry Pi + object detection + autonomous behavior
-- 🚪 <b>Smart Door Security System</b> — Face recognition + MQTT + ESP8266 servo control
-- ✋ <b>Hand Gesture Recognition</b> — Using pre-trained ML models
+-  <b>EngageSense AI</b> — Real-time student engagement detection (Eye-Gaze + Head-Pose + CNNs)
+-  <b>DriveSafe</b> — Driver distraction detection using YOLOv8, EAR, head-pose & phone detection
+-  <b>Healthcare Digital Twin (FL + HE)</b> — Privacy-preserving federated learning system
+-  <b>AI-Assisted RC Car</b> — Raspberry Pi + object detection + autonomous behavior
+-  <b>Smart Door Security System</b> — Face recognition + MQTT + ESP8266 servo control
+-  <b>Hand Gesture Recognition</b> — Using pre-trained ML models
 
