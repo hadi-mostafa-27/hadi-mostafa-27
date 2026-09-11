@@ -1,90 +1,43 @@
-<h1 align="center">Hi, I'm Hadi Mostafa</h1>
-<h3 align="center">Computer Engineering Student | AI Researcher | Robotics & IoT Enthusiast</h3>
+### Hi, I'm Hadi Mostafa
 
-<p align="center">
-  I build applied AI, computer vision, healthcare AI, robotics, IoT, and embedded systems projects.
-</p>
+Computer Engineering student building applied AI systems across computer vision, healthcare AI, federated learning, and embedded/IoT — end-to-end, from model to deployable product.
 
----
-
-### About Me
-
-- I'm currently working on **AI research in healthcare, digital twins, and human-behavior analysis**
-- I build **AI + IoT + robotics systems** using ESP8266, Raspberry Pi, drones, computer vision, and MQTT
-- I'm looking to collaborate on **AI, computer vision, healthcare AI, and autonomous systems projects**
-- I'm currently learning **Unity FPS game development** and improving my **cybersecurity skills**
-- Reach me at **hadimos567@gmail.com**
+**Currently:** researching healthcare AI, human-behavior analysis, and privacy-preserving ML.
+**Exploring:** Unity FPS development and applied cybersecurity.
+**Open to:** collaboration on AI, computer vision, healthcare AI, and autonomous systems projects.
 
 ---
 
-### Connect With Me
+### Selected Work
 
-<p align="left">
-  <!-- Add LinkedIn, portfolio, YouTube, or research links here later -->
-  <!-- Example:
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  -->
-</p>
+**Health AI Federated Learning Client** — Windows desktop prototype simulating federated learning across hospitals for chest X-ray pneumonia classification. DenseNet121, FedAvg/FedProx, non-IID hospital splits, Grad-CAM explainability, Docker export, packaged installer.
+`Python · PyTorch · PySide6 · SQLite`
 
----
+**SignBridge** — Bidirectional, fully local sign-language communication system: real-time ASL alphabet recognition (MediaPipe + Random Forest) with predictive autocomplete, plus voice/text-to-sign translation via local Whisper.
+`Python · FastAPI · MediaPipe · Whisper`
 
+**EMO v2** — Multi-agent, emotionally-aware movie recommendation system with a full RAG pipeline, 4-tier memory architecture, and LLM-as-judge evaluation.
+`FastAPI · ChromaDB · Multi-agent orchestration`
 
-### Highlighted Projects
+**EngageSense AI** — Interpretable, rule-based student engagement detection from head pose and eye gaze, running real-time on CPU. 82.2% accuracy, zero raw-video retention.
+`Python · OpenCV · MediaPipe · Dlib`
 
-#### Health AI Federated Learning Client
+**DriveSafe** — Real-time driver distraction detection fusing phone detection (YOLOv8), drowsiness (EAR), and head pose, with MQTT-based ESP32 hardware alerts.
+`YOLOv8 · MediaPipe · PyQt5 · MQTT`
 
-Academic Windows desktop prototype for federated learning in healthcare, focused on chest X-ray pneumonia classification across simulated hospitals.
+**HealthChain / MedBlock AI** — Blockchain-backed healthcare insurance simulation platform: Next.js frontend, NestJS backend, and Solidity smart contracts on a local Hardhat chain.
+`Next.js · NestJS · Solidity · Docker`
 
-- **Tech:** Python, PySide6, PyTorch, SQLite, DenseNet121, Grad-CAM, PyInstaller, Inno Setup
-- **Features:** admin/hospital dashboards, project approval workflow, FedAvg/FedProx simulation, non-IID hospital splits, medical metrics, Grad-CAM, results page, Docker export, Windows installer
-- **Repository:** [health-ai-federated-learning-client](https://github.com/hadi-mostafa-27/health-ai-federated-learning-client)
-- **Demo Installer:** [Download HospitalFLSystem_Setup.exe](https://github.com/hadi-mostafa-27/health-ai-federated-learning-client/releases/latest/download/HospitalFLSystem_Setup.exe)
+**Smart Door Security System** — Face-recognition access control combining an ESP8266, MQTT, and a Telegram bot for remote authorization.
+`Python · OpenCV · MQTT · ESP8266`
 
-#### EngageSense AI
+**MedXfer** — Transfer-learning pipeline (ResNet-18/50) for chest X-ray classification, served via FastAPI with a React frontend. 0.936 AUROC.
+`PyTorch · FastAPI · React`
 
-Real-time student engagement detection using eye-gaze, head-pose estimation, and CNN-based behavior analysis.
-
-#### DriveSafe
-
-Driver distraction detection using YOLOv8, eye aspect ratio, head-pose estimation, and phone detection.
-
-#### Healthcare Digital Twin
-
-Privacy-aware healthcare digital twin concept using federated learning and lightweight security/privacy mechanisms.
-
-#### AI-Assisted RC Car
-
-Raspberry Pi powered RC car with object detection and autonomous behavior.
-
-#### Smart Door Security System
-
-Face recognition access control using MQTT, ESP8266, and servo-based door automation.
-
-#### Hand Gesture Recognition
-
-Hand gesture recognition using pretrained machine learning and computer vision models.
+**CogniCheck** — Research prototype for detecting and resolving memory contradictions in LLM-driven game NPCs, cutting LLM API calls 60–80% via hybrid semantic + rule-based detection.
+`Python · FastAPI`
 
 ---
 
-### Current Interests
-
-- Healthcare AI and medical imaging
-- Federated learning and privacy-preserving ML
-- Computer vision and human-behavior analysis
-- Robotics, drones, and autonomous systems
-- IoT systems using MQTT and embedded controllers
-- Cybersecurity fundamentals for connected systems
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hadi-mostafa-27&show_icons=true&theme=default" alt="Hadi Mostafa GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadi-mostafa-27&layout=compact&theme=default" alt="Top languages" />
-</p>
+### Stack
+`Python` `PyTorch` `OpenCV / MediaPipe` `FastAPI` `React / Next.js` `MQTT` `ESP8266/ESP32` `Docker`
